@@ -1,0 +1,20 @@
+
+/* External CSS Stylesheet. */
+
+.Rogue {
+  opacity: 0.5;
+  font-style: italic;
+}
+
+.Warrior {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.Mage {
+  color: blue;
+  font-family: Cursive;
+}
+
+/* Copyright
+  Trilogy Education Services © 2018. All Rights Reserved. */

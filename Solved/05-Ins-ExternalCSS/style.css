@@ -1,0 +1,17 @@
+/*
+  This is our external CSS.
+*/
+
+/* Change the h1 font to Arial */
+h1 {
+  font-family: Arial;
+}
+
+/* Make paragraph text 48px and red */
+p {
+  font-size: 48px;
+  color: red;
+}
+
+/* Copyright
+  Trilogy Education Services © 2018. All Rights Reserved. */

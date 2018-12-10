@@ -1,0 +1,26 @@
+button{
+    background: fuchsia;
+    color: white;
+    padding: 50px;
+    margin: 50px;
+    border: 5px;
+    border-radius: 30px;
+    font-weight: 800;
+}
+
+button:hover{
+    background: seagreen;
+    color: white;
+}
+
+button:visited{
+background: orange;
+}
+
+button:active{
+background: whitesmoke;
+}
+
+h1{
+    color: red;
+}

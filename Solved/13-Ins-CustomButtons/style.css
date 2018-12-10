@@ -1,0 +1,97 @@
+/* Custom Buttons external CSS stylesheet */
+
+.btn {
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Green */
+.success {
+  border-color: #4CAF50;
+  color: green;
+}
+
+/* .success:hover {
+  background-color: #4CAF50;
+  color: white;
+} */
+
+/* Blue */
+.info {
+  border-color: #2196F3;
+  color: dodgerblue;
+}
+
+/* Orange */
+.warning {
+  border-color: #ff9800;
+  color: orange;
+}
+
+/* .warning:hover {
+  background: #ff9800;
+  color: white;
+} */
+
+/* Red */
+.danger {
+  border-color: #f44336;
+  color: red;
+}
+
+/* .danger:hover {
+  background: #f44336;
+  color: white;
+} */
+
+/* Gray */
+.default {
+  border-color: #e7e7e7;
+  color: black;
+}
+
+/* .default:hover {
+  background: #e7e7e7;
+} */
+
+/*new button design*/
+
+/* Blue rectangle */
+
+.btn1 {
+  border: 2px solid #157FFB;
+  border-radius: 2px;
+  background-color: #157FFB;
+  color: #157FFB;
+  padding: 10px 40px;
+  font-size: 18px;
+  cursor: pointer;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.click {
+  border-color: #157FFB;
+  color: #FFF;
+}
+
+.click:hover {
+  background: #65ABFD;
+  color: white;
+  font-weight: 800;
+  padding: 10px 36px;
+} 
+
+.click:active {
+  background: #0055B9;
+  color: white;
+  font-weight: 600;
+} 
+
+
+/* Copyright
+  Trilogy Education Services © 2018. All Rights Reserved. */

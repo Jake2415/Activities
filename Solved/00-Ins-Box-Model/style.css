@@ -1,0 +1,14 @@
+
+/* box class box model styling. */
+
+.Box {
+    width: 200px;
+    height: 200px;
+    background-color: darkviolet;
+    border: 15px solid hotpink;
+    padding: 25px;
+    margin: 20px;
+  }
+
+/* Copyright
+  Trilogy Education Services © 2018. All Rights Reserved. */

@@ -1,0 +1,13 @@
+/* This will apply to the main-headline ID */
+#main-headline {
+  color: purple;
+  background: white;
+}
+
+/* This will apply to anything with a class of blue */
+.blue {
+  color: blue;
+}
+
+/* Copyright
+  Trilogy Education Services © 2018. All Rights Reserved. */

@@ -1,0 +1,12 @@
+/* This will apply to the main-headline ID */
+
+#cursive {
+  font-family: cursive;
+}
+
+#crossedOut {
+  text-decoration: line-through;
+}
+
+/* Copyright
+  Trilogy Education Services © 2018. All Rights Reserved. */

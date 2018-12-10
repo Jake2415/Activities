@@ -2,15 +2,33 @@
 
 h1 {
     font-family: Arial;
-    font-size: 48px;
+    font-size: 60px;
     font-weight: bold;
     font-style: italic;
     color: blue;
 }
 
+
+
 p {
-    font-family: "Times New Roman", Times, serif;
+    font-family: 'Courier New', Courier, monospace;
     background-color: aqua;
+}
+
+input{
+    width: 300px;
+    background-color: lightgrey;
+    border: darkgrey;
+    border-radius: 20px;
+
+}
+
+button{
+    background-color: green;
+    border:0px;
+    border-radius: 20px;
+    margin-top: 10px;
+    color: white;
 }
 
 /* Copyright

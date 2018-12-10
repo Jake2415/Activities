@@ -10,9 +10,10 @@
 
 body {
   background-color: #ededed;
-  color: #363636;
+  color: rgb(18, 21, 209);
   font-size: 16px;
   margin: 0px;
+  
 }
 
 /* Container to hold all content */
@@ -21,7 +22,7 @@ body {
   background: #fff;
   margin: 80px auto 15px auto;
   padding: 15px;
-  width: 1000px;
+  width: 500px;
   height: 600px;
 }
 
@@ -30,11 +31,13 @@ body {
 h1,
 h2 {
   text-transform: uppercase;
+  font-family: 'Lato', sans-serif;
 }
 
 h1 span,
 h2 {
-  color: #ff8598;
+  color: dodgerblue;
+  font-family: 'Lato', sans-serif;
 }
 
 h2::before {
@@ -55,13 +58,22 @@ li {
 }
 
 a {
-  color: #aaa;
+  color: dodgerblue;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
 }
+
+p, a{
+  font-family: 'Chakra Petch', sans-serif;
+}
+
+.slider{
+  padding-left: 135px;
+}
+
 
 /* Copyright
   Trilogy Education Services © 2018. All Rights Reserved. */

@@ -1,1 +1,15 @@
 /* ADD DIFFERENT CSS STYLES TO EACH CLASS CODE GOES HERE - Try - Class 1 = occupancy & Font Style, (Font class 2 = size & Font, class 3= color & font family. explore more as well. */
+.MAGE{
+    color: blue;
+    font-family: cursive;
+}
+
+.WARRIOR{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.ROGUE{
+    opacity: 50%;
+    font-style: italic;
+}

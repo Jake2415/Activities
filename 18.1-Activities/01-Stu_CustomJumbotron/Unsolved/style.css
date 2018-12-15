@@ -1,0 +1,12 @@
+/* YOUR CODE HERE */
+.jumbotron{
+    position: fixed;
+    background: black url(https://unsplash.com/photos/oCZHIa1D4EU);
+    width: 100%;
+    background-size: ;
+    color: white; 
+}
+.btn{
+    color:navy;
+    background: white;
+}

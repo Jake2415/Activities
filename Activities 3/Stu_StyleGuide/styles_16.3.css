@@ -51,7 +51,7 @@ Sets up styles for .content-container
     flex-wrap: wrap;
     margin-top: 15px;
     margin-block-end: 15;
-    /*justify-content: space-between;*/
+    justify-content: space-between;
 
   
 }
